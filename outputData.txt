@@ -1,0 +1,4 @@
+John grade average: 74.23%
+Mike grade average: 73%
+Sonia grade average: 64.5%
+Tyler : No grades entered.
